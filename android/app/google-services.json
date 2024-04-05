@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "666643783238",
+    "project_id": "simple-ecom-1e5fc",
+    "storage_bucket": "simple-ecom-1e5fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666643783238:android:adb8a7fef8271761927447",
+        "android_client_info": {
+          "package_name": "com.example.simple_ecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666643783238-014bvfgd3d9mubpis0s5cto7e4et0er5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9pcwr7pfPUOhTue0hVzFWA8YtGXF5eGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666643783238-014bvfgd3d9mubpis0s5cto7e4et0er5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666643783238:android:da020bca411aa07a927447",
+        "android_client_info": {
+          "package_name": "com.tukitaki.project.simple_fb_storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666643783238-014bvfgd3d9mubpis0s5cto7e4et0er5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9pcwr7pfPUOhTue0hVzFWA8YtGXF5eGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666643783238-014bvfgd3d9mubpis0s5cto7e4et0er5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666643783238:android:c42fa2179cbf823b927447",
+        "android_client_info": {
+          "package_name": "com.tukitaki.project.simple_firebase_storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666643783238-014bvfgd3d9mubpis0s5cto7e4et0er5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9pcwr7pfPUOhTue0hVzFWA8YtGXF5eGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666643783238-014bvfgd3d9mubpis0s5cto7e4et0er5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
